@@ -13,5 +13,9 @@ body {
     margin: auto;
 }
 #kép {
-    margin:auto;
+    margin:auto
+}
+#három {
+    background-color: green;
+    height: 60px;
 }
