@@ -10,4 +10,8 @@ body {
     height: 60px;
     padding: 2px;
     text-align: justify;
+    margin: auto;
+}
+#kép {
+    margin:auto;
 }
